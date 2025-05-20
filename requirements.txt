@@ -1,4 +1,1 @@
-smtplib
-imaplib
-email
 python-dotenv
